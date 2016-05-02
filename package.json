@@ -1,0 +1,26 @@
+{
+  "name": "apitest",
+  "version": "1.0.0",
+  "description": "Teste automatizado de API",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fhribeiro/apitest.git"
+  },
+  "keywords": [
+    "api",
+    "test",
+    "mocha",
+    "supertest",
+    "chai"
+  ],
+  "author": "Fernando Henrique Ribeiro (fernando.fhribeiro@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fhribeiro/apitest/issues"
+  },
+  "homepage": "https://github.com/fhribeiro/apitest#readme"
+}
